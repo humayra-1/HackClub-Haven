@@ -37,4 +37,4 @@ The player must navigate through narrow pathways, avoid bouncing obstacles, dodg
 
 **"GAME OVER! MA DHORE FELSE!"**
 
-*"Ebar porte
+*"Ebar porte bosh"*
