@@ -1,9 +1,6 @@
 # HackClub-Haven
 
 # 🎮 KALKE THEKE SERIOUS
-**Genre:** 2D Comedy / Maze Escape  
-**Theme:** Bouncing Back  
-**Game Engine:** Godot 4
 
 ### Game Description
 
